@@ -2,9 +2,7 @@
 
 [![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OrlandobtJunior) [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovpjunior/) [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlandovpjunior/)
 
-![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orlandovpjunior&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlandovpjunior)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Orlando's GitHub stats" height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orlandovpjunior&theme=dracula"/> <img alt="Top Langs" height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orlandovpjunior&theme=dracula"/>
 
 ### Technologies
 
